@@ -6,3 +6,8 @@ The "Bash Battle Arena" is a command-line game I've designed to teach and improv
 
 Players must complete various tasks or "missions" using Bash scripts. These tasks range from simple file manipulations to more complex system operations. The goal is to "defeat" each level by correctly solving the problem, with the ultimate aim of becoming a "Bash Master."
 
+# 📂 Contents
+
+- [Challenges (Questions)](./challenges/)
+- [Solutions](./solutions/)
+

@@ -7,3 +7,6 @@ level Greet a User (Variables + Parameters) ![image](https://github.com/user-att
 
 3. Calculate Simple Cost (Arithmetic)
 ![image](https://github.com/user-attachments/assets/c1d22eb6-ee64-4e41-8064-66cf5b09d0fb)
+
+# LEVEL 2: Intermediate – Real Use Cases
+. Archive Logs With Date Stamp ![image](https://github.com/user-attachments/assets/84b7d5fa-9cdd-461b-8adf-674700da0b7c)
